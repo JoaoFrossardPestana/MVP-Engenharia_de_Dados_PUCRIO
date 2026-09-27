@@ -4,6 +4,8 @@ Arquitetura medalhão (Bronze, Silver e Gold) em Databricks, modelo
 dimensional e análise de 9 perguntas sobre processos de recuperação
 judicial, extrajudicial e falência.
 
+Repositório: https://github.com/JoaoFrossardPestana/MVP-Engenharia_de_Dados_PUCRIO
+
 ## Sumário
 
 1. [Introdução](#1-introdução)
